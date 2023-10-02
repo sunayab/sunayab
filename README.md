@@ -27,7 +27,7 @@
 <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40" height="40"></a>
 <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="40" height="40"></a>
 <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-cloud.svg" alt="Google Cloud" width="40" height="40"></a>
-<a href="https://nutanix.com/products/ahv/" title="Nutanix AHV"><img src="Nutanix-AHV.svg" alt="Nutanix AHV" width="45" height="45"></a>
+<a href="https://nutanix.com/products/ahv/" title="Nutanix AHV"><img src="Nutanix-AHV.svg" alt="Nutanix AHV" width="50" height="50"></a>
 <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"></a>
 <br/>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
