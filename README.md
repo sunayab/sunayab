@@ -3,12 +3,11 @@
 [![Twitter: sunayAbblor](https://img.shields.io/twitter/follow/sunayAbblor?style=social)](https://twitter.com/sunayAbblor)
 [![Linkedin: sunayab](https://img.shields.io/badge/-sunayab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunayab/)](https://www.linkedin.com/in/sunayab/)
 [![GitHub sunayab](https://img.shields.io/github/followers/sunayab?label=follow&style=social)](https://github.com/sunayab)
-![](https://visitor-badge.glitch.me/badge?page_id=sunayab.sunayab)
 [![telegram badge](https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram)](https://t.me/sunayab) <br>
 
 ## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
 
-<p align="left">  
+<p align="left">
 <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -17,10 +16,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <br/>
+<!-- <strong>Frameworks:   </strong> -->
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <br/>
+<!-- <strong>Hypervisors:  </strong>  -->
 <a href="https://vmware.com/" title="VMWare"><img src="vmw.svg" alt="VMware" width="40" height="40"></a>
 <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40" height="40"></a>
 <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="40" height="40"></a>
@@ -29,6 +30,7 @@
 <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" title="Microsoft Hyper-V"><img src="MS-Hyper-V.svg" alt="Microsoft Hyper-V" width="40" height="40"></a>
 <a href="https://vmware.com/in/products/cloud-director.html/" title="vCloud"><img src="vCloud.svg" alt="VMware vCloud Director" width="40" height="40"></a>
 <br/>
+<!-- <strong>Storage Arrays:</strong>  -->
 <a href="https://netapp.com/data-storage/" title="Netapp Storage"><img src="Netapp.svg" alt="Netapp Storage" width="40" height="40"></a>
 <a href="https://dell.com/en-uk/shop/scc/sc/storage-products/" title="Dell Storage"><img src="Dell.svg" alt="Dell Storage" width="40" height="40"></a>
 <a href="https://nutanix.com/solutions/unified-storage/" title="Nutanix Storage"><img src="Nutanix.svg" alt="Nutanix Storage" width="40" height="40"></a>
