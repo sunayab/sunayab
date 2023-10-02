@@ -1,4 +1,3 @@
-
 <h2> Hi there 👋 Sunay here! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![Twitter: sunayAbblor](https://img.shields.io/twitter/follow/sunayAbblor?style=social)](https://twitter.com/sunayAbblor)
@@ -6,7 +5,6 @@
 [![GitHub sunayab](https://img.shields.io/github/followers/sunayab?label=follow&style=social)](https://github.com/sunayab)
 ![](https://visitor-badge.glitch.me/badge?page_id=sunayab.sunayab)
 [![telegram badge](https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram)](https://t.me/sunayab) <br>
-
 
 ## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
 
@@ -23,13 +21,20 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <br/>
-<a href="https://vmware.com/" title="VMWare"><img src="vmw2.svg" alt="VMware" width="40" height="40"></a>
+<a href="https://vmware.com/" title="VMWare"><img src="vmw.svg" alt="VMware" width="40" height="40"></a>
 <a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40" height="40"></a>
 <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="40" height="40"></a>
 <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-cloud.svg" alt="Google Cloud" width="40" height="40"></a>
 <a href="https://nutanix.com/products/ahv/" title="Nutanix AHV"><img src="Nutanix-AHV.svg" alt="Nutanix AHV" width="50" height="50"></a>
-<a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"></a>
+<a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" title="Microsoft Hyper-V"><img src="MS-Hyper-V.svg" alt="Microsoft Hyper-V" width="40" height="40"></a>
+<a href="https://vmware.com/in/products/cloud-director.html/" title="vCloud"><img src="vCloud.svg" alt="VMware vCloud Director" width="40" height="40"></a>
 <br/>
+<a href="https://vmware.com/" title="Netapp Storage"><img src="Netapp.svg" alt="Netapp Storage" width="40" height="40"></a>
+<a href="https://vmware.com/" title="Dell Storage"><img src="Dell.svg" alt="Dell Storage" width="40" height="40"></a>
+<a href="https://vmware.com/" title="Nutanix Storage"><img src="Nutanix.svg" alt="Nutanix Storage" width="40" height="40"></a>
+<a href="https://purestorage.com/" target="_blank" rel="noreferrer"> <img src="https://www.purestorage.com/content/dam/purestorage/home-2020/footer-pure-logo.svg.imgo.svg" alt="Pure Storage" width="40" height="40"/></a>
+<br/>
+<a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
