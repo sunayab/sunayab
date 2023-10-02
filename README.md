@@ -29,9 +29,9 @@
 <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" title="Microsoft Hyper-V"><img src="MS-Hyper-V.svg" alt="Microsoft Hyper-V" width="40" height="40"></a>
 <a href="https://vmware.com/in/products/cloud-director.html/" title="vCloud"><img src="vCloud.svg" alt="VMware vCloud Director" width="40" height="40"></a>
 <br/>
-<a href="https://vmware.com/" title="Netapp Storage"><img src="Netapp.svg" alt="Netapp Storage" width="40" height="40"></a>
-<a href="https://vmware.com/" title="Dell Storage"><img src="Dell.svg" alt="Dell Storage" width="40" height="40"></a>
-<a href="https://vmware.com/" title="Nutanix Storage"><img src="Nutanix.svg" alt="Nutanix Storage" width="40" height="40"></a>
+<a href="https://netapp.com/data-storage/" title="Netapp Storage"><img src="Netapp.svg" alt="Netapp Storage" width="40" height="40"></a>
+<a href="https://dell.com/en-uk/shop/scc/sc/storage-products/" title="Dell Storage"><img src="Dell.svg" alt="Dell Storage" width="40" height="40"></a>
+<a href="https://nutanix.com/solutions/unified-storage/" title="Nutanix Storage"><img src="Nutanix.svg" alt="Nutanix Storage" width="40" height="40"></a>
 <a href="https://purestorage.com/" target="_blank" rel="noreferrer"> <img src="https://www.purestorage.com/content/dam/purestorage/home-2020/footer-pure-logo.svg.imgo.svg" alt="Pure Storage" width="40" height="40"/></a>
 <br/>
 <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"></a>
