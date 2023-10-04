@@ -3,7 +3,8 @@
 [![Twitter: sunayAbblor](https://img.shields.io/twitter/follow/sunayAbblor?style=social)](https://twitter.com/sunayAbblor)
 [![Linkedin: sunayab](https://img.shields.io/badge/-sunayab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunayab/)](https://www.linkedin.com/in/sunayab/)
 [![GitHub sunayab](https://img.shields.io/github/followers/sunayab?label=follow&style=social)](https://github.com/sunayab)
-[![telegram badge](https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram)](https://t.me/sunayab) <br>
+[![telegram badge](https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram)](https://t.me/sunayab)
+<br>
 
 ## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
 
@@ -41,10 +42,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+
 <!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunayab?ext=heatmap)
--->
-<!--
+
 ### Hi there 👋 Sunay here!
 **sunayab/sunayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
