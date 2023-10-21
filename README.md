@@ -2,7 +2,7 @@
 
 [![Twitter: sunayAbblor](https://img.shields.io/twitter/follow/sunayAbblor?style=social)](https://twitter.com/sunayAbblor)
 [![Linkedin: sunayab](https://img.shields.io/badge/-sunayab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunayab/)](https://www.linkedin.com/in/sunayab/)
-[![GitHub sunayab](https://img.shields.io/github/followers/sunayab?label=follow&style=social)](https://github.com/sunayab)
+[![GitHub sunayab](https://img.shields.io/github/followers/sunayab?label=sunayab&style=social)](https://github.com/sunayab)
 [![telegram badge](https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram)](https://t.me/sunayab)
 <br>
 
