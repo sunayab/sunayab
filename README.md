@@ -6,7 +6,7 @@
 [![telegram badge](https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram)](https://t.me/sunayab)
 <br>
 
-## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
+## Expertise
 
 <p align="left">
 <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
@@ -48,7 +48,7 @@
 
 ### Hi there 👋 Sunay here!
 **sunayab/sunayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
