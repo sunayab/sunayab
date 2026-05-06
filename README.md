@@ -1,66 +1,83 @@
-<h2> Hi there 👋 Sunay here! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-[![Twitter: sunayAbblor](https://img.shields.io/twitter/follow/sunayAbblor?style=social)](https://twitter.com/sunayAbblor)
-[![Linkedin: sunayab](https://img.shields.io/badge/-sunayab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunayab/)](https://www.linkedin.com/in/sunayab/)
-[![GitHub sunayab](https://img.shields.io/github/followers/sunayab?label=sunayab&style=social)](https://github.com/sunayab)
-[![telegram badge](https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram)](https://t.me/sunayab)
-<br>
-
-## Expertise
+<h2> Hi there 👋 I'm Sunay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
 <p align="left">
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://twitter.com/sunayAbblor"><img src="https://img.shields.io/twitter/follow/sunayAbblor?style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/sunayab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sunayab"><img src="https://img.shields.io/github/followers/sunayab?label=sunayab&style=social" alt="GitHub"></a>
+  <a href="https://t.me/sunayab"><img src="https://img.shields.io/badge/sunayab-grey?style=flat&logo=telegram" alt="Telegram"></a>
 </p>
 
-<br/>
+---
 
-<!-- <strong>Frameworks:   </strong> -->
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<br/>
-<!-- <strong>Hypervisors:  </strong>  -->
-<a href="https://vmware.com/" title="VMWare"><img src="vmw.svg" alt="VMware" width="40" height="40"></a>
-<a href="https://aws.amazon.com/" title="Amazon Web Services"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40" height="40"></a>
-<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="40" height="40"></a>
-<a href="https://cloud.google.com/" title="Google Cloud"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-cloud.svg" alt="Google Cloud" width="40" height="40"></a>
-<a href="https://nutanix.com/products/ahv/" title="Nutanix AHV"><img src="Nutanix-AHV.svg" alt="Nutanix AHV" width="50" height="50"></a>
-<a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" title="Microsoft Hyper-V"><img src="MS-Hyper-V.svg" alt="Microsoft Hyper-V" width="40" height="40"></a>
-<a href="https://vmware.com/in/products/cloud-director.html/" title="vCloud"><img src="vCloud.svg" alt="VMware vCloud Director" width="40" height="40"></a>
-<br/>
-<!-- <strong>Storage Arrays:</strong>  -->
-<a href="https://netapp.com/data-storage/" title="Netapp Storage"><img src="Netapp.svg" alt="Netapp Storage" width="40" height="40"></a>
-<a href="https://dell.com/en-uk/shop/scc/sc/storage-products/" title="Dell Storage"><img src="Dell.svg" alt="Dell Storage" width="40" height="40"></a>
-<a href="https://nutanix.com/solutions/unified-storage/" title="Nutanix Storage"><img src="Nutanix.svg" alt="Nutanix Storage" width="40" height="40"></a>
-<a href="https://purestorage.com/" target="_blank" rel="noreferrer"><img src="https://www.purestorage.com/content/dam/purestorage/home-2020/footer-pure-logo.svg.imgo.svg" alt="Pure Storage" width="40" height="40"/></a>
+### 👨‍💻 About Me
+Senior Software Developer with **8+ years of experience** specializing in Virtualization, Cloud Infrastructure, Data Protection, and Disaster Recovery. I enjoy designing scalable enterprise solutions and resolving complex distributed system challenges.
 
-<br/>
-<a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+Currently working as a **Member of Technical Staff (MTS-3)** at **Cohesity**, building robust backup and restore solutions for File Systems and Cloud workloads.
 
+---
 
+### 🚀 Personal Projects
 
-<!--
-![Leetcode Stats](https://leetcard.jacoblin.cool/sunayab?ext=heatmap)
+<p align="left">
+  <a href="https://sneek.in" style="margin-right: 15px;"><img src="sneek-logo.svg" alt="sneek.in" height="40"></a>
+  <a href="https://tripteez.com" style="margin-right: 15px;"><img src="tripteez-logo.svg" alt="tripteez.com" height="40"></a>
+  <a href="https://confhub.in" style="margin-right: 15px;"><img src="confhub-logo.svg" alt="confhub.in" height="40"></a>
+  <a href="https://divinechants.in"><img src="divinechants-logo.svg" alt="divinechants" height="40"></a>
+</p>
 
-### Hi there 👋 Sunay here!
-**sunayab/sunayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+**Languages & Frameworks:**
+<p align="left">
+  <a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a>
+  <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
+  <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35" height="35"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/></a>
+</p>
+
+**Cloud & Virtualization:**
+<p align="left">
+  <a href="https://aws.amazon.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="35" height="35"></a>
+  <a href="https://azure.microsoft.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Azure" width="35" height="35"></a>
+  <a href="https://cloud.google.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-cloud.svg" alt="GCP" width="35" height="35"></a>
+  <a href="https://vmware.com/"><img src="vmw.svg" alt="VMware" width="35" height="35"></a>
+  <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"><img src="MS-Hyper-V.svg" alt="Hyper-V" width="35" height="35"></a>
+  <a href="https://nutanix.com/products/ahv/"><img src="Nutanix-AHV.svg" alt="Nutanix AHV" width="45" height="45"></a>
+  <a href="https://vmware.com/in/products/cloud-director.html/"><img src="vCloud.svg" alt="vCloud Director" width="35" height="35"></a>
+</p>
+
+**Storage Arrays:**
+<p align="left">
+  <a href="https://netapp.com/data-storage/"><img src="Netapp.svg" alt="Netapp" width="35" height="35"></a>
+  <a href="https://nutanix.com/solutions/unified-storage/"><img src="Nutanix.svg" alt="Nutanix" width="35" height="35"></a>
+  <a href="https://dell.com/en-uk/shop/scc/sc/storage-products/"><img src="Dell.svg" alt="Dell Storage" width="35" height="35"></a>
+  <a href="https://purestorage.com/"><img src="https://www.purestorage.com/content/dam/purestorage/home-2020/footer-pure-logo.svg.imgo.svg" alt="Pure Storage" width="35" height="35"/></a>
+</p>
+
+---
+
+### 💼 Work Experience
+
+- **Cohesity** (Oct 2023 - Present)
+  *Member of Technical Staff (MTS-3)*
+  - Developing and maintaining core functionalities for File System Backup, Restore, and Disaster Recovery (NFS, SMB, S3).
+  - Designed and developed Azure Blob Container Backup/Restore and AWS S3 Cross-Region copy Restore on the multi-tenant Helios cloud platform.
+
+- **Commvault** (Jul 2017 - Jul 2023)
+  *Senior Engineer II*
+  - Engineered virtual machine Backup, Restore, and Disaster Recovery workflows.
+  - Led cross-functional projects including load-balanced restores, vCloud Director Unix Proxy Support, and Nutanix VMCentric snapshot engines.
+  - Successfully resolved over 200 customer escalations with custom debugging tools.
+
+- **Philips Innovation Labs** (Jul 2016 - Jun 2017)
+  *Automation Developer Intern*
+  - Automated manual test cases of PACS clients and contributed to an in-house Automation framework.
+
+---
+
+### 🎓 Education
+
+- **M.Tech. Computer Science** - BMS College of Engineering (CGPA: 8.28)
