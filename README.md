@@ -1,8 +1,8 @@
 <h2> Hi there 👋 I'm Sunay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
-<p>
-<a href="https://www.linkedin.com/in/sunayab/"><img src="linkedin.svg" alt="sunayab" height="20"></a>&nbsp;
-<a href="https://github.com/sunayab"><img src="github.svg" alt="sunayab" height="20"></a>&nbsp;
-<a href="https://t.me/sunayab"><img src="telegram.svg" alt="sunayab" height="20"></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/sunayab/"><img src="https://img.shields.io/badge/linkedin-sunayab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://github.com/sunayab"><img src="https://img.shields.io/badge/github-sunayab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+<a href="https://t.me/sunayab"><img src="https://img.shields.io/badge/telegram-sunayab-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ---
@@ -15,36 +15,44 @@ Currently working as a **Member of Technical Staff (MTS-3)** at **Cohesity**, bu
 ---
 
 ### 🚀 Personal Projects
-<p>
-<a href="https://sneek.in"><img src="sneek-logo.svg" alt="sneek.in" height="40"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://tripteez.com"><img src="tripteez-logo.svg" alt="tripteez.com" height="40"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://confhub.in"><img src="confhub-logo.svg" alt="confhub.in" height="40"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://divinechants.in"><img src="divinechants-logo.svg" alt="divinechants" height="40"></a>
+<p align="left">
+<a href="https://sneek.in"><img src="sneek-logo.svg" alt="sneek.in" height="45"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://tripteez.com"><img src="tripteez-logo.svg" alt="tripteez.com" height="45"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://confhub.in"><img src="confhub-logo.svg" alt="confhub.in" height="45"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://divinechants.in"><img src="divinechants-logo.svg" alt="divinechants" height="45"></a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-<table><tr><td colspan="5"><b>Languages & Frameworks:</b></td></tr><tr>
-<td><img src="cplusplus.svg" alt="C++" width="35" height="35"></td>
-<td><img src="go.svg" alt="Go" width="35" height="35"></td>
-<td><img src="javascript.svg" alt="JavaScript" width="35" height="35"></td>
-<td><img src="angular.svg" alt="Angular" width="35" height="35"></td>
-<td><img src="csharp.svg" alt="C#" width="35" height="35"></td>
-</tr><tr><td colspan="7"><b>Cloud & Virtualization:</b></td></tr><tr>
-<td><img src="aws.svg" alt="AWS" width="35" height="35"></td>
-<td><img src="azure.svg" alt="Azure" width="35" height="35"></td>
-<td><img src="gcp.svg" alt="GCP" width="35" height="35"></td>
-<td><img src="vmw.svg" alt="VMware" width="35" height="35"></td>
-<td><img src="MS-Hyper-V.svg" alt="Hyper-V" width="35" height="35"></td>
-<td><img src="Nutanix-AHV.svg" alt="Nutanix AHV" width="35" height="35"></td>
-<td><img src="vCloud.svg" alt="vCloud Director" width="35" height="35"></td>
-</tr><tr><td colspan="4"><b>Storage Arrays:</b></td></tr><tr>
-<td><img src="Netapp.svg" alt="Netapp" width="35" height="35"></td>
-<td><img src="Nutanix.svg" alt="Nutanix" width="35" height="35"></td>
-<td><img src="Dell.svg" alt="Dell" width="35" height="35"></td>
-<td><img src="purestorage.svg" alt="Pure Storage" width="35" height="35"></td>
-</tr></table>
+
+#### Languages & Frameworks
+<p align="left">
+<img src="cplusplus.svg" alt="C++" width="40" height="40">&nbsp;&nbsp;
+<img src="go.svg" alt="Go" width="40" height="40">&nbsp;&nbsp;
+<img src="javascript.svg" alt="JavaScript" width="40" height="40">&nbsp;&nbsp;
+<img src="angular.svg" alt="Angular" width="40" height="40">&nbsp;&nbsp;
+<img src="csharp.svg" alt="C#" width="40" height="40">
+</p>
+
+#### Cloud & Virtualization
+<p align="left">
+<img src="aws.svg" alt="AWS" width="40" height="40">&nbsp;&nbsp;
+<img src="azure.svg" alt="Azure" width="40" height="40">&nbsp;&nbsp;
+<img src="gcp.svg" alt="GCP" width="40" height="40">&nbsp;&nbsp;
+<img src="vmw.svg" alt="VMware" width="40" height="40">&nbsp;&nbsp;
+<img src="MS-Hyper-V.svg" alt="Hyper-V" width="40" height="40">&nbsp;&nbsp;
+<img src="Nutanix-AHV.svg" alt="Nutanix AHV" width="40" height="40">&nbsp;&nbsp;
+<img src="vCloud.svg" alt="vCloud Director" width="40" height="40">
+</p>
+
+#### Storage Arrays
+<p align="left">
+<img src="Netapp.svg" alt="Netapp" width="40" height="40">&nbsp;&nbsp;
+<img src="Nutanix.svg" alt="Nutanix" width="40" height="40">&nbsp;&nbsp;
+<img src="Dell.svg" alt="Dell" width="40" height="40">&nbsp;&nbsp;
+<img src="purestorage.svg" alt="Pure Storage" width="40" height="40">
+</p>
 
 ---
 
