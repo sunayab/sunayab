@@ -60,14 +60,15 @@ Currently working as a **Member of Technical Staff (MTS-3)** at **Cohesity**, bu
 
 - **Cohesity** (Oct 2023 - Present)
   *Member of Technical Staff (MTS-3)*
-  - Developing and maintaining core functionalities for File System Backup, Restore, and Disaster Recovery (NFS, SMB, S3).
-  - Designed and developed Azure Blob Container Backup/Restore and AWS S3 Cross-Region copy Restore on the multi-tenant Helios cloud platform.
+  - **Full-Stack Development:** Currently architecting and implementing features across the stack using **Angular** for the frontend and **C++** for distributed backend systems.
+  - **Cloud & Core Infrastructure:** Developing core functionalities for File System Backup/Restore (NFS, SMB, S3). Designed and developed Azure Blob Container Backup and AWS S3 Cross-Region copy Restore on the multi-tenant Helios cloud platform.
+  - **Reliability & Escalations:** Successfully investigated and resolved **~160 critical customer issues**, delivering direct code fixes, patches, and advanced configuration optimizations to ensure enterprise stability.
 
 - **Commvault** (Jul 2017 - Jul 2023)
   *Senior Engineer II*
-  - Engineered virtual machine Backup, Restore, and Disaster Recovery workflows.
-  - Led cross-functional projects including load-balanced restores, vCloud Director Unix Proxy Support, and Nutanix VMCentric snapshot engines.
-  - Successfully resolved over 200 customer escalations with custom debugging tools.
+  - **System Engineering:** Engineered robust virtual machine Backup, Restore, and Disaster Recovery workflows for enterprise-scale environments.
+  - **Feature Leadership:** Led cross-functional projects including load-balanced restores, vCloud Director Unix Proxy Support, and Nutanix VMCentric snapshot engines.
+  - **Customer Success:** Successfully resolved **200+ complex customer escalations**, building custom debugging tools and delivering critical code patches to stabilize production deployments.
 
 - **Philips Innovation Labs** (Jul 2016 - Jun 2017)
   *Automation Developer Intern*
