@@ -46,6 +46,12 @@ Currently working as a **Member of Technical Staff (MTS-3)** at **Cohesity**, bu
 <img src="vCloud.svg" alt="vCloud Director" width="40" height="40">
 </p>
 
+#### DevOps & Containers
+<p align="left">
+<img src="docker.svg" alt="Docker" width="40" height="40">&nbsp;&nbsp;
+<img src="kubernetes.svg" alt="Kubernetes" width="40" height="40">
+</p>
+
 #### Storage Arrays
 <p align="left">
 <img src="Netapp.svg" alt="Netapp" width="40" height="40">&nbsp;&nbsp;
