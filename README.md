@@ -1,8 +1,8 @@
 <h2> Hi there 👋 I'm Sunay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/sunayab/"><img src="https://img.shields.io/badge/sunayab-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="https://github.com/sunayab"><img src="https://img.shields.io/badge/sunayab-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
-<a href="https://t.me/sunayab"><img src="https://img.shields.io/badge/sunayab-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.linkedin.com/in/sunayab/"><img src="badge-linkedin.svg" alt="LinkedIn - sunayab" height="20"></a>&nbsp;
+<a href="https://github.com/sunayab"><img src="badge-github.svg" alt="GitHub - sunayab" height="20"></a>&nbsp;
+<a href="https://t.me/sunayab"><img src="badge-telegram.svg" alt="Telegram - sunayab" height="20"></a>
 </p>
 
 ---
